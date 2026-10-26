@@ -1,0 +1,10 @@
+{
+  "Version": "2.1.0",
+  "ReleaseDate": "2026-10-26",
+  "IsMandatory": false,
+  "ReleaseNotes": "1. Chrome va Edge brauzerlarida lokal .pdf va .html topshiriq fayllarini (file://* va DevTools F12) bloklanmasdan ochish hamda o'qituvchi yuborgan fayllarni karantindan istisno qilish.\n2. XAMPP, OpenServer (OSPanel), WampServer, Laragon, MAMP va VS Code Live Server (localhost, 127.0.0.1, .loc/.test va hosts virtual domenlari) uchun to'liq qo'llab-quvvatlash.\n3. O'quvchi topshiriqlarini Sinf va O'quvchi F.I.Sh bo'yicha tartibli papkalarga yig'ish (HTML+CSS+rasm loyihalari buzilmaydi), haqiqiy bajargan vaqtini saqlash va interaktiv Topshiriqlar_Jurnali.html hisoboti.\n4. Topshiriqlar yig'ib olingach yoki yangi o'quvchi kirganda Mening_Topshiriqlarim papkasini avtomatik tozalash va 7 kunlik himoyalangan tizim arxiviga ko'chirish.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.1.0/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.1.0/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
+  "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec"
+}
