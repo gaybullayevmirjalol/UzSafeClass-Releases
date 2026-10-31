@@ -1,10 +1,12 @@
 {
-  "Version": "2.1.1",
-  "ReleaseDate": "2026-10-26",
+  "Version": "2.2.0",
+  "TeacherVersion": "2.2.0",
+  "StudentVersion": "2.2.0",
+  "ReleaseDate": "2026-10-31",
   "IsMandatory": false,
-  "ReleaseNotes": "• Lokal PDF/HTML topshiriqlar (Chrome/Edge) hamda XAMPP, OpenServer, WampServer, Laragon to'liq qo'llab-quvvatlandi.\n• Sinf va O'quvchi bo'yicha tartibli papkalar, Topshiriqlar_Jurnali.html, 7 kunlik arxiv-tozalash va Yangilash Markazi skroli qo'shildi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.1.1/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.1.1/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• NetSupport Delta (Lossless UI + JPEG + alohida kursor kanali) texnologiyasi: o'qituvchi ekranini uzatish va o'quvchi ekranini boshqarishda maksimal tiniqlik, minimal tarmoq va xotira sarfi.\n• O'qituvchi va O'quvchi dasturlarida yangilanish chiqqanda hamda o'rnatilganda darhol chiqadigan bildirishnoma tizimi.\n• Barcha oyna va dialoglar 7 ta tilda (shu jumladan Yangi o'zbek-lotin alifbosi: Ğ, Ö, Ş, Ç) to'liq tarjima qilindi.\n• Ruxsat berilgan saytlarda yolg'on blok oynasi tuzatildi va Chrome Google Lens barcha rejimlarda yoqildi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.2.0/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.2.0/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec"
 }
