@@ -1,0 +1,64 @@
+name: Publish UzSafeClass Release
+
+on:
+  push:
+    branches:
+      - 'release-staging'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reassemble installers and verify SHA-256
+        run: |
+          set -euo pipefail
+          cat staging/teacher.part.* > UzSafeClass_Oqituvchi_Ornatish.exe
+          cat staging/student.part.* > UzSafeClass_Oquvchi_Ornatish.exe
+          sha256sum -c staging/checksums.sha256
+
+      - name: Create or update GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          TAG=$(tr -d '\r\n' < staging/tag.txt)
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" UzSafeClass_Oqituvchi_Ornatish.exe UzSafeClass_Oquvchi_Ornatish.exe --clobber
+          else
+            gh release create "$TAG" \
+              UzSafeClass_Oqituvchi_Ornatish.exe \
+              UzSafeClass_Oquvchi_Ornatish.exe \
+              --target main \
+              --title "UzSafeClass $TAG" \
+              --notes-file staging/release_notes.md \
+              --latest
+          fi
+
+      - name: Update version.json and README.md on main and cleanup staging branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          cp staging/version.json /tmp/version.json
+          cp staging/README.md /tmp/README.md
+          TAG=$(tr -d '\r\n' < staging/tag.txt)
+          git config user.name "Mirjalol Gaybullayev"
+          git config user.email "gaybullayevmirjalol@gmail.com"
+          git checkout main
+          git pull --rebase origin main
+          cp /tmp/version.json version.json
+          cp /tmp/README.md README.md
+          if ! git diff --quiet; then
+            git add version.json README.md
+            git commit -m "Publish UzSafeClass $TAG release manifest"
+            git push origin main
+          fi
+          git push origin --delete release-staging || true
