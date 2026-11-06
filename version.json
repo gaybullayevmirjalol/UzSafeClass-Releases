@@ -1,15 +1,15 @@
 {
-  "Version": "2.4.1",
-  "TeacherVersion": "2.4.1",
-  "StudentVersion": "2.4.1",
+  "Version": "2.4.2",
+  "TeacherVersion": "2.4.2",
+  "StudentVersion": "2.4.2",
   "ReleaseDate": "2026-11-06",
   "IsMandatory": false,
-  "ReleaseNotes": "• Yangilanishlar raqamli imzo bilan tekshiriladi: dastur faqat rasmiy imzolangan versiyani va xeshi mos keladigan o'rnatuvchini o'rnatadi.\n• O'quvchi kompyuterlari yangi o'qituvchi kompyuterini faqat litsenziyali o'qituvchi uchun server bergan sertifikat bilan taniydi. O'qituvchi kompyuteri almashtirilsa: o'quvchi sozlamalarida «Yangi o'qituvchi kompyuterini tanish» tugmasi.\n• Parolni tiklash kodi Telegram bot serverida tekshiriladi va bir martalik (kodni kiritishda internet kerak).\n• Ichki xavfsizlik yaxshilandi: soxta tiklash kodi yoki soxta o'qituvchi yasash imkoniyati yopildi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.1/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.1/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Mashina ID endi ona plata UUID sidan olinadi: Windows qayta o'rnatilsa ham o'zgarmaydi. Avval faollashtirilgan litsenziyalar ishlayveradi va internet bo'lganda yangi ID ga o'zi ko'chiriladi.\n• O'quvchi ekrani, fayllari va jurnalini faqat shu kompyuter taniydigan o'qituvchi ko'ra oladi (so'rovlar o'qituvchi kaliti bilan imzolanadi). Muhim: avval o'qituvchi kompyuterini yangilang.\n• O'qituvchi menyusida «Muammo haqida xabar berish»: muammo, oyna rasmi va xatolar jurnali dasturchiga Telegram orqali yetib boradi.\n• Dastur kutilmaganda yopilsa, xato ma'lumoti keyingi ishga tushishda avtomatik yuboriladi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.2/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.2/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "BEF25B3A4837716E942612C0246780991C37F2F16415499E614CDA90F6DCF1A1",
-  "StudentInstallerSha256": "90C71A6C2363FE5EDB204C93A250D43723637EA1BF1E7E1470C2986602B0556B",
-  "Signature": "2u1QSl3sTNFon-CJdc7FEQz0MiA-Eck-89EvY7eB1SzmdOAWQLDpsaq4RkHbFOo2HxkcDoqg1Qumy1rEVLvRVA"
+  "TeacherInstallerSha256": "32EA26EC97E9FCA779AEB583ED16821E25EF259F71971082559F1FA4BCA8B7AA",
+  "StudentInstallerSha256": "E340609D732B778915954963E0650CEFF2E6293483F31A3CD1FC6F3632EBE916",
+  "Signature": "25BfmFCs9HVVhq61Xqf0FbVEWY3xUXhVWeaP1bw2Ns45mcACKBfM0zM6xeo6gN256Ix6S3gtawHYLyFofr2tsg"
 }
