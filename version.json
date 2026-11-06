@@ -1,12 +1,12 @@
 {
-  "Version": "2.3.0",
-  "TeacherVersion": "2.3.0",
-  "StudentVersion": "2.3.0",
-  "ReleaseDate": "2026-11-05",
+  "Version": "2.4.0",
+  "TeacherVersion": "2.4.0",
+  "StudentVersion": "2.4.0",
+  "ReleaseDate": "2026-11-06",
   "IsMandatory": false,
-  "ReleaseNotes": "• O'qituvchi paneli yangi dizaynda: yorug' va qorong'i mavzu, 6 ta ko'rinish (kartalar, sinf xaritasi, yon menyu, katta tugmalar, dars bosqichlari, jadval). Sozlamalar > Ko'rinish.\n• Sinf xaritasida kompyuterlarni sichqoncha bilan surib, haqiqiy joylashuvga moslash mumkin.\n• O'qituvchi har bir o'quvchi hozir qaysi dasturda ishlayotganini ko'radi; muhim hodisalar darhol ajratib ko'rsatiladi.\n• O'quvchi ekranlari (qulflash, qoidalar, translatsiya, taqiqlangan sayt oynasi) yangi dizaynda.\n• Xavfsizlik: o'qituvchi siyosati endi to'liq raqamli imzo bilan tekshiriladi — imtihon sozlamalarini o'quvchi kompyuterida o'zgartirib bo'lmaydi.\n• Parol himoyasi kuchaytirildi: standart parollar qayta ochilmaydi, noto'g'ri urinishlar cheklanadi. Telegram bot orqali parolni tiklash ishga tushirildi.\n• Ekran translatsiyasi: brauzer, rasm va ish stoli ko'rsatilganda o'quvchi ekrani qotib qolishi tuzatildi.\n• Tarmoqdagi kompyuterlarni topish yaxshilandi (katta tarmoqlar va oldin ulangan kompyuterlar).\n• Kompyuter qayta yoqilganda o'qituvchi sozlamalari yo'qolib qolishi tuzatildi.\n• Yangi litsenziya kaliti. Avval faollashtirilgan kompyuterlarda hech narsa qilish shart emas.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.3.0/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.3.0/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Bitta tarmoqda bir nechta sinfxona: o'qituvchi o'z xonasini tanlaydi, buyruqlar, rejimlar va qulflash faqat shu xonadagi kompyuterlarga ta'sir qiladi. O'quvchi ilovasini o'rnatishda xona tanlanadi (ixtiyoriy).\n• Taqiqlangan sayt oynasi yangilandi: sayt nima uchun yopilgani va Raqamli texnologiyalar vazirligi tavsiya etgan ta'lim resurslari (edu.digital.uz, aileaders.uz, it-istedod.uz va boshqalar). «Batafsil» tugmasi barcha ruxsat berilgan saytlarni ko'rsatadi.\n• Edge ochilganda to'xtovsiz «sayt yopiq» xabarlari chiqishi tuzatildi: xabar bir sayt uchun bir marta chiqadi.\n• Qulf oynalari farqlanadi: tanaffus (keyingi dars nomi va vaqti bilan), darslar tugadi va o'qituvchi qulfi.\n• Xavfsizlik texnikasi qoidalari rasmiy ko'rinishda, bo'limlar bilan.\n• O'quvchi kompyuterida sozlamalar saqlangach himoya darhol tanlangan rejim bilan qayta yoqiladi.\n• O'quvchining taqiqlangan saytga urinishi o'qituvchi jurnalida ko'rinadi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.0/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.0/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec"
 }
