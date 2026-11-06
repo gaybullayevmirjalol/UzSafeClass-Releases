@@ -1,12 +1,15 @@
 {
-  "Version": "2.4.0",
-  "TeacherVersion": "2.4.0",
-  "StudentVersion": "2.4.0",
+  "Version": "2.4.1",
+  "TeacherVersion": "2.4.1",
+  "StudentVersion": "2.4.1",
   "ReleaseDate": "2026-11-06",
   "IsMandatory": false,
-  "ReleaseNotes": "• Bitta tarmoqda bir nechta sinfxona: o'qituvchi o'z xonasini tanlaydi, buyruqlar, rejimlar va qulflash faqat shu xonadagi kompyuterlarga ta'sir qiladi. O'quvchi ilovasini o'rnatishda xona tanlanadi (ixtiyoriy).\n• Taqiqlangan sayt oynasi yangilandi: sayt nima uchun yopilgani va Raqamli texnologiyalar vazirligi tavsiya etgan ta'lim resurslari (edu.digital.uz, aileaders.uz, it-istedod.uz va boshqalar). «Batafsil» tugmasi barcha ruxsat berilgan saytlarni ko'rsatadi.\n• Edge ochilganda to'xtovsiz «sayt yopiq» xabarlari chiqishi tuzatildi: xabar bir sayt uchun bir marta chiqadi.\n• Qulf oynalari farqlanadi: tanaffus (keyingi dars nomi va vaqti bilan), darslar tugadi va o'qituvchi qulfi.\n• Xavfsizlik texnikasi qoidalari rasmiy ko'rinishda, bo'limlar bilan.\n• O'quvchi kompyuterida sozlamalar saqlangach himoya darhol tanlangan rejim bilan qayta yoqiladi.\n• O'quvchining taqiqlangan saytga urinishi o'qituvchi jurnalida ko'rinadi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.0/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.0/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Yangilanishlar raqamli imzo bilan tekshiriladi: dastur faqat rasmiy imzolangan versiyani va xeshi mos keladigan o'rnatuvchini o'rnatadi.\n• O'quvchi kompyuterlari yangi o'qituvchi kompyuterini faqat litsenziyali o'qituvchi uchun server bergan sertifikat bilan taniydi. O'qituvchi kompyuteri almashtirilsa: o'quvchi sozlamalarida «Yangi o'qituvchi kompyuterini tanish» tugmasi.\n• Parolni tiklash kodi Telegram bot serverida tekshiriladi va bir martalik (kodni kiritishda internet kerak).\n• Ichki xavfsizlik yaxshilandi: soxta tiklash kodi yoki soxta o'qituvchi yasash imkoniyati yopildi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.1/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.1/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
-  "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec"
+  "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
+  "TeacherInstallerSha256": "BEF25B3A4837716E942612C0246780991C37F2F16415499E614CDA90F6DCF1A1",
+  "StudentInstallerSha256": "90C71A6C2363FE5EDB204C93A250D43723637EA1BF1E7E1470C2986602B0556B",
+  "Signature": "2u1QSl3sTNFon-CJdc7FEQz0MiA-Eck-89EvY7eB1SzmdOAWQLDpsaq4RkHbFOo2HxkcDoqg1Qumy1rEVLvRVA"
 }
