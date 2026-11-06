@@ -1,11 +1,17 @@
-# рџ›ЎпёЏ UzSafeClass вЂ” Rasmiy Yangilanishlar va O'rnatgichlar
+# 🛡️ UzSafeClass — rasmiy o'rnatuvchilar va yangilanishlar
 
-Ushbu repozitoriya **UzSafeClass** kompyuter sinfxonasi xavfsizlik va boshqaruv tizimining rasmiy o'rnatgich fayllari (.exe) hamda avtomatik yangilanish manifesti (ersion.json) uchun mo'ljallangan.
+Bu omborda **UzSafeClass** (kompyuter sinfxonasini boshqarish va himoyalash tizimi) o'rnatuvchilari hamda avtomatik yangilanish manifesti (`version.json`) saqlanadi. Dastur kodi bu yerda emas.
 
-## рџ“Ґ Oxirgi versiyani yuklab olish (v2.2.0)
+## 📥 Oxirgi versiyani yuklab olish
 
-- рџ‘ЁвЂЌрџЏ« **O'qituvchi kompyuteri uchun:** [UzSafeClass_Oqituvchi_Ornatish.exe](https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest/download/UzSafeClass_Oqituvchi_Ornatish.exe)
-- рџ‘ЁвЂЌрџЋ“ **O'quvchi kompyuteri uchun:** [UzSafeClass_Oquvchi_Ornatish.exe](https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest/download/UzSafeClass_Oquvchi_Ornatish.exe)
+- 👨‍🏫 **O'qituvchi kompyuteri uchun:** [UzSafeClass_Oqituvchi_Ornatish.exe](https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest/download/UzSafeClass_Oqituvchi_Ornatish.exe)
+- 👨‍🎓 **O'quvchi kompyuterlari uchun:** [UzSafeClass_Oquvchi_Ornatish.exe](https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest/download/UzSafeClass_Oquvchi_Ornatish.exe)
+
+Har bir versiyada nima o'zgargani [Releases](https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases) sahifasida yozilgan. Rasmiy sayt: [uzsafeclass.uz](https://uzsafeclass.uz).
+
+## 🔄 Avtomatik yangilanish
+
+O'rnatilgan dasturlar `version.json` ni tekshiradi va yangi versiyani o'zi taklif qiladi. 2.4.1 dan boshlab manifest raqamli imzolanadi: dastur imzo va o'rnatuvchi xeshi mos kelmasa yangilanishni o'rnatmaydi.
 
 ---
-рџ“ћ Qo'llab-quvvatlash (Telegram): [@gaybullayevmirjalol](https://t.me/gaybullayevmirjalol) | Guruh: [@UzSafeClass](https://t.me/UzSafeClass)
+📞 Yordam (Telegram): [@gaybullayevmirjalol](https://t.me/gaybullayevmirjalol) · Guruh: [@UzSafeClass](https://t.me/UzSafeClass) · Bot: [@UzSafeClassBot](https://t.me/UzSafeClassBot)
