@@ -1,15 +1,15 @@
 {
-  "Version": "2.4.2",
-  "TeacherVersion": "2.4.2",
-  "StudentVersion": "2.4.2",
-  "ReleaseDate": "2026-11-06",
+  "Version": "2.4.3",
+  "TeacherVersion": "2.4.3",
+  "StudentVersion": "2.4.3",
+  "ReleaseDate": "2026-11-07",
   "IsMandatory": false,
-  "ReleaseNotes": "• Mashina ID endi ona plata UUID sidan olinadi: Windows qayta o'rnatilsa ham o'zgarmaydi. Avval faollashtirilgan litsenziyalar ishlayveradi va internet bo'lganda yangi ID ga o'zi ko'chiriladi.\n• O'quvchi ekrani, fayllari va jurnalini faqat shu kompyuter taniydigan o'qituvchi ko'ra oladi (so'rovlar o'qituvchi kaliti bilan imzolanadi). Muhim: avval o'qituvchi kompyuterini yangilang.\n• O'qituvchi menyusida «Muammo haqida xabar berish»: muammo, oyna rasmi va xatolar jurnali dasturchiga Telegram orqali yetib boradi.\n• Dastur kutilmaganda yopilsa, xato ma'lumoti keyingi ishga tushishda avtomatik yuboriladi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.2/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.2/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Ekran translatsiyasi tezlashdi: Wi-Fi kompyuterlarda kechikish yig'ilib borishi (5–20 soniya) tuzatildi. Endi o'quvchi kompyuteri keyingi kadrni oldingisini olgandan keyin so'raydi va doim ekranning hozirgi holatini oladi, kadrlar tarmoqda navbatga yig'ilmaydi.\n• Har bir o'quvchi kompyuteri o'z ulanishiga mos usulni o'zi tanlaydi: kabeldagilar multicast oladi, Wi-Fi'dagilar kadrni o'zi so'rab oladi.\n• Ekran faol o'zgarganda har soniyada butun ekranni qayta yuborish to'xtatildi: faqat o'zgargan joylar ketadi, tarmoq yuklamasi bir necha baravar kamaydi.\n• Tarmoq sekin bo'lsa, rasm va video qismlarining sifati avtomatik pasayadi (matn va oynalar har doim tiniq qoladi).\n• O'qituvchi kompyuteri Wi-Fi orqali ulangan bo'lsa, translatsiya boshlanganda ogohlantirish chiqadi (kabel tavsiya etiladi).\n• Sozlamalarda «Simli kompyuterlarga multicast» tanlovi: router multicastni Wi-Fi'ga ham tarqatib, translatsiyani sekinlashtirsa, uni o'chirish mumkin.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.3/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.3/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "32EA26EC97E9FCA779AEB583ED16821E25EF259F71971082559F1FA4BCA8B7AA",
-  "StudentInstallerSha256": "E340609D732B778915954963E0650CEFF2E6293483F31A3CD1FC6F3632EBE916",
-  "Signature": "25BfmFCs9HVVhq61Xqf0FbVEWY3xUXhVWeaP1bw2Ns45mcACKBfM0zM6xeo6gN256Ix6S3gtawHYLyFofr2tsg"
+  "TeacherInstallerSha256": "4CBD4790F6812D80FF3105A89EA9B36DF8329C39A4D8B1A6C6709C88CB699F70",
+  "StudentInstallerSha256": "C31882F574A1197D0BBCD51F90ED67E9DF0B90FBD8AF26842A3FB19D5C69EFF8",
+  "Signature": "DRg1nXzamNnLnvuqXA8ojaA7ip4mHHm2NLJD54hhLGZvLvbSknlSfeeW0auiFWYyLjOwIHyZuTQWrR3WypAV7g"
 }
