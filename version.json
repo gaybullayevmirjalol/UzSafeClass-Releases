@@ -1,15 +1,15 @@
 {
-  "Version": "2.4.3",
-  "TeacherVersion": "2.4.3",
-  "StudentVersion": "2.4.3",
+  "Version": "2.4.4",
+  "TeacherVersion": "2.4.4",
+  "StudentVersion": "2.4.4",
   "ReleaseDate": "2026-11-07",
   "IsMandatory": false,
-  "ReleaseNotes": "• Ekran translatsiyasi tezlashdi: Wi-Fi kompyuterlarda kechikish yig'ilib borishi (5–20 soniya) tuzatildi. Endi o'quvchi kompyuteri keyingi kadrni oldingisini olgandan keyin so'raydi va doim ekranning hozirgi holatini oladi, kadrlar tarmoqda navbatga yig'ilmaydi.\n• Har bir o'quvchi kompyuteri o'z ulanishiga mos usulni o'zi tanlaydi: kabeldagilar multicast oladi, Wi-Fi'dagilar kadrni o'zi so'rab oladi.\n• Ekran faol o'zgarganda har soniyada butun ekranni qayta yuborish to'xtatildi: faqat o'zgargan joylar ketadi, tarmoq yuklamasi bir necha baravar kamaydi.\n• Tarmoq sekin bo'lsa, rasm va video qismlarining sifati avtomatik pasayadi (matn va oynalar har doim tiniq qoladi).\n• O'qituvchi kompyuteri Wi-Fi orqali ulangan bo'lsa, translatsiya boshlanganda ogohlantirish chiqadi (kabel tavsiya etiladi).\n• Sozlamalarda «Simli kompyuterlarga multicast» tanlovi: router multicastni Wi-Fi'ga ham tarqatib, translatsiyani sekinlashtirsa, uni o'chirish mumkin.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.3/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.3/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Qoraqalpoq tili qo'shildi (lotin yozuvi): o'qituvchi dasturi, o'quvchi dasturi va o'rnatuvchilar qoraqalpoqcha.\n• Tojik va turkman tillari olib tashlandi. Endi tillar: O'zbekcha, O'zbekcha (yangi alifbo), Qaraqalpaqsha, Русский, English, Қазақша.\n• Avval tojik yoki turkman tili tanlangan kompyuterlar o'zbekchaga o'tadi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.4/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.4/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "4CBD4790F6812D80FF3105A89EA9B36DF8329C39A4D8B1A6C6709C88CB699F70",
-  "StudentInstallerSha256": "C31882F574A1197D0BBCD51F90ED67E9DF0B90FBD8AF26842A3FB19D5C69EFF8",
-  "Signature": "DRg1nXzamNnLnvuqXA8ojaA7ip4mHHm2NLJD54hhLGZvLvbSknlSfeeW0auiFWYyLjOwIHyZuTQWrR3WypAV7g"
+  "TeacherInstallerSha256": "5A62C99366CDF52AB5A9A00B83847BFD634BAB8D8E27B8FBF7E838CCE23E1066",
+  "StudentInstallerSha256": "21BB11C9A0015D473FF09D832BA4341188A67E354F77B6C2A6F2AEF89136FF44",
+  "Signature": "cIDhKm5XbE5_KXNVGmtmq15t9JZ5fq5JqnarOlSgYoNACLqjPXK7xTgdkr5dTe_BeYsygAuc8OEqXcxfUTR8-g"
 }
