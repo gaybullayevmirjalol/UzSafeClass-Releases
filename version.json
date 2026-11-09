@@ -1,15 +1,15 @@
 {
-  "Version": "2.4.4",
-  "TeacherVersion": "2.4.4",
-  "StudentVersion": "2.4.4",
-  "ReleaseDate": "2026-11-07",
+  "Version": "2.5.0",
+  "TeacherVersion": "2.5.0",
+  "StudentVersion": "2.5.0",
+  "ReleaseDate": "2026-11-09",
   "IsMandatory": false,
-  "ReleaseNotes": "• Qoraqalpoq tili qo'shildi (lotin yozuvi): o'qituvchi dasturi, o'quvchi dasturi va o'rnatuvchilar qoraqalpoqcha.\n• Tojik va turkman tillari olib tashlandi. Endi tillar: O'zbekcha, O'zbekcha (yangi alifbo), Qaraqalpaqsha, Русский, English, Қазақша.\n• Avval tojik yoki turkman tili tanlangan kompyuterlar o'zbekchaga o'tadi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.4/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.4.4/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Yangi: Test tizimi. O'qituvchi dasturidagi «\uD83D\uDCDD Testlar» bo'limida test yaratish (PDF yoki savollarni yozib), 11 xil topshiriq turi, har bir topshiriqqa alohida ball.\n• Testni bir bosishda sinfga yuborish: o'quvchilarda test oynasi o'zi ochiladi, javoblar o'quvchi kompyuterida saqlanadi va o'qituvchi tarmoq orqali yig'ib oladi. To'g'ri javoblar o'quvchi kompyuteriga yuborilmaydi.\n• Jonli kuzatuv, erkin javoblarni tekshirish, BSB, CHSB, loyiha ishi va ichki monitoring hisobotlari (Excel, PDF).\n• Testlar uchun Microsoft Edge WebView2 Runtime kerak (Windows 11 da bor, Windows 10 da odatda Edge bilan o'rnatilgan).",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.0/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.0/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "5A62C99366CDF52AB5A9A00B83847BFD634BAB8D8E27B8FBF7E838CCE23E1066",
-  "StudentInstallerSha256": "21BB11C9A0015D473FF09D832BA4341188A67E354F77B6C2A6F2AEF89136FF44",
-  "Signature": "cIDhKm5XbE5_KXNVGmtmq15t9JZ5fq5JqnarOlSgYoNACLqjPXK7xTgdkr5dTe_BeYsygAuc8OEqXcxfUTR8-g"
+  "TeacherInstallerSha256": "8294C59244F319770FEBBB93C4F69642F1AA91EF7B75DE4600CA282511540B21",
+  "StudentInstallerSha256": "3EE17ECF99EDA8BA276EB2D6CB986F26842DE08D0B24FE11FC4E4F566C708E32",
+  "Signature": "otxUgAnDIdPUF1qRpoq-pOB5n8w28Bs_8n2GqcA4Zp3CNclOaMlWnUuPlL-vddOgdvRUu3NyuPbpvyswzHS01g"
 }
