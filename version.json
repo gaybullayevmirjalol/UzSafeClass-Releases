@@ -1,15 +1,15 @@
 {
-  "Version": "2.5.2",
-  "TeacherVersion": "2.5.2",
-  "StudentVersion": "2.5.2",
+  "Version": "2.5.3",
+  "TeacherVersion": "2.5.3",
+  "StudentVersion": "2.5.3",
   "ReleaseDate": "2026-11-17",
   "IsMandatory": false,
-  "ReleaseNotes": "• Butun sinfni bittada faollashtirish: «\uD83D\uDCE5 Barcha o'quvchilar ID'sini yig'ish» — bitta QR, bot hammasi uchun yagona litsenziya fayli beradi.\n• Yangi sinfxona to'plamlari; o'qituvchi dasturi bepul.\n• Himoya: parol bilan qulf ochilganda Sozlamalar va dasturni o'chirish bloklangan qoladi; Windows sozlamalariga ruxsat 15 daqiqada yopiladi.\n• Parolni bot orqali tiklash ishonchli ishlaydi.\n• uzsafeclass.uz, Telegram va GitHub o'quvchilarda standart ruxsat etilgan.\n• Masofaviy yangilash: faqat joriy xona, versiya tekshiruvi va natija hisoboti.\n• «Ko'proq» menyusi va «Barchasini tanlash» barcha ko'rinishlarda ishlaydi.\n• O'rnatish oxirida «Qayta yuklash» yoki «Hozir ishga tushirish» tanlanadi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.2/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.2/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Yangi: o'quvchi kompyuterlari internetdan o'zi yangilanadi — o'qituvchi faqat buyruq yuboradi, holatini (yuklanmoqda %, o'rnatilmoqda, o'rnatildi) jonli ko'radi.\n• Yuklab olish uzilsa to'xtagan joyidan davom etadi; fayl imzo va SHA256 bilan tekshiriladi.\n• LAN orqali yangilash mustahkamlandi: Wi-Fi'da navbat bilan yuboriladi, tarmoq uzilsa kutib qayta urinadi, xatolar tushunarli tilda.\n• Muhim: 2.5.2 va eski versiyalarni bir marta LAN yoki fleshka orqali 2.5.3 ga o'tkazing — keyingi yangilanishlar internetdan o'zi o'rnatiladi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.3/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.3/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "9DF14C7AC76618C28FB4B592668C2BB69B772A379E787E28500A586A3EA0AEEC",
-  "StudentInstallerSha256": "B73A146704810EE2FECC7DA098500080A942BF4CBFFEFF73CF87DA5439E1228C",
-  "Signature": "-qvftq6nLDcQFcrDxJnQ4NIlWiSEyvXfi6TYJzrslnK_Z6sbgF4k8x9ozz5-E-kdbEu_yyC94hpHJ2VNKKq1mw"
+  "TeacherInstallerSha256": "AF89044783AB79792E6B1206507C93FCE75453F95B7D20F03DF7D8BEFC16C2FE",
+  "StudentInstallerSha256": "7E5E4CB4EA434EAAE543451A49AB3270294F40139832B9454ABB19409C6CF584",
+  "Signature": "bWefA_KUsRS_G7GguPHIH31M13gG-VjI8NE9k4mHjLfNPLhf8xaWHhvVRosERIw9r_Zz0aS5_zRqKJgpAuOzaA"
 }
