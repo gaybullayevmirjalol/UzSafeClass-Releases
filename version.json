@@ -1,15 +1,15 @@
 {
-  "Version": "2.5.4",
-  "TeacherVersion": "2.5.4",
-  "StudentVersion": "2.5.4",
-  "ReleaseDate": "2026-11-20",
+  "Version": "2.5.5",
+  "TeacherVersion": "2.5.5",
+  "StudentVersion": "2.5.5",
+  "ReleaseDate": "2026-11-25",
   "IsMandatory": false,
-  "ReleaseNotes": "• Tuzatildi: o'qituvchi dasturida bitta o'quvchi kompyuteri ikki marta (ikkinchisi «Avtonom»/«Oflayn» bo'lib) ko'rinib qolardi — endi kompyuter o'zgarmas Machine ID bo'yicha taniladi.\n• Statistika ma'lumotlari imzolanadi.\n• 2.5.3 dan: o'quvchi kompyuterlari o'qituvchi buyrug'i bilan internetdan o'zi yangilanadi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.4/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.4/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Tuzatildi: namoyish to'xtatilganda ba'zi kompyuterlarda oxirgi kadr qotib qolardi.\n• Tuzatildi: o'qituvchi orqali faollashtirishda rad etilgan kalit «faollashtirildi» deb ko'rsatilardi — endi sababi ko'rinadi.\n• Tuzatildi: fayl yuborish paytida oyna yopilsa dastur qulardi.\n• Yangi: viloyat va tuman ro'yxatdan tanlanadi; 3 va 6 oylik kalitlar.\n• Xavfsizlik: namoyish va fayl yuborish imzolari kuchaytirildi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.5/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.5/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "4F4CAB54CBDF5CD9FF1405202C7FFAD2C8B8D68CE80FAA98C0857B323C94C575",
-  "StudentInstallerSha256": "0A9675AB230F10DAA3866C292874BC7FA1E73A3044BCB533F8E0E2803C782FDF",
-  "Signature": "6Lj7842jQxYZATjCT0z-n_w4p3Sh-3qUOCjvhuQQ8aY-N8r_EWt8ohsmqo2hJsIEX65UwlJHGB885q5Crcb1VQ"
+  "TeacherInstallerSha256": "A4FF68EB2A93DF65D9FFB9AA76A24F35D66A85C08E5539E71878967804A0EAF9",
+  "StudentInstallerSha256": "44903A6B048FF0CB49E9BD9382BF72552CF8238A3A427357086D004815F06B6D",
+  "Signature": "XqVkZWQ4w-EgJ5BH8fnJ4Lro-SdQ_h-LJX8xhr4kGLxyXrq9GGMlimeg-MJdu3gYWHDhWzYUTpXTzMPkghzNog"
 }
