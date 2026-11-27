@@ -1,15 +1,15 @@
 {
-  "Version": "2.5.5",
-  "TeacherVersion": "2.5.5",
-  "StudentVersion": "2.5.5",
-  "ReleaseDate": "2026-11-25",
+  "Version": "2.5.6",
+  "TeacherVersion": "2.5.6",
+  "StudentVersion": "2.5.6",
+  "ReleaseDate": "2026-11-27",
   "IsMandatory": false,
-  "ReleaseNotes": "• Tuzatildi: namoyish to'xtatilganda ba'zi kompyuterlarda oxirgi kadr qotib qolardi.\n• Tuzatildi: o'qituvchi orqali faollashtirishda rad etilgan kalit «faollashtirildi» deb ko'rsatilardi — endi sababi ko'rinadi.\n• Tuzatildi: fayl yuborish paytida oyna yopilsa dastur qulardi.\n• Yangi: viloyat va tuman ro'yxatdan tanlanadi; 3 va 6 oylik kalitlar.\n• Xavfsizlik: namoyish va fayl yuborish imzolari kuchaytirildi.",
-  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.5/UzSafeClass_Oqituvchi_Ornatish.exe",
-  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.5/UzSafeClass_Oquvchi_Ornatish.exe",
+  "ReleaseNotes": "• Tuzatildi: darsda Word/PowerPoint'da «Onlayn rasmlar» bosilganda Office qotib qolardi — dars va imtihon rejimida bu tugma endi nofaol.\n• Tuzatildi: kompyuter uzoq ishlab turganda oyna ochilishida dastur «Dll was not found» xatosi bilan qulashi mumkin edi.",
+  "TeacherInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.6/UzSafeClass_Oqituvchi_Ornatish.exe",
+  "StudentInstallerUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/download/v2.5.6/UzSafeClass_Oquvchi_Ornatish.exe",
   "ReleasePageUrl": "https://github.com/gaybullayevmirjalol/UzSafeClass-Releases/releases/latest",
   "TelemetryWebhookUrl": "https://script.google.com/macros/s/AKfycbxVEeORMhnEeqBAD-O9TrtYPWQmKK5aZjVbbru_00O1OXAV0mxdNlLGNp-9j0y47EKH/exec",
-  "TeacherInstallerSha256": "A4FF68EB2A93DF65D9FFB9AA76A24F35D66A85C08E5539E71878967804A0EAF9",
-  "StudentInstallerSha256": "44903A6B048FF0CB49E9BD9382BF72552CF8238A3A427357086D004815F06B6D",
-  "Signature": "XqVkZWQ4w-EgJ5BH8fnJ4Lro-SdQ_h-LJX8xhr4kGLxyXrq9GGMlimeg-MJdu3gYWHDhWzYUTpXTzMPkghzNog"
+  "TeacherInstallerSha256": "0EB1A8D54C082AF4E11E9D9B94802162510947ABAFD9D33D9D3EFC4CF2D39D46",
+  "StudentInstallerSha256": "CD0786AF74A53921CBA4F973094B39D9FE5359EFFDE7F78AFC14000491E5ACE9",
+  "Signature": "8InWwL6ZsS6BMEMHk-TtdXBu_TmUgWNI-JECxWE5nwkukJF0tmEgBM_nPz-wu8YvyS8_dFfKgsWxdXGvmKlOIQ"
 }
